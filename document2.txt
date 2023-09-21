@@ -108,5 +108,7 @@ int main()
 
 	printf("\nSorted array is \n");
 	printArray(arr, arr_size);
+
+	printf("knock knock who is it?")
 	return 0;
 }
